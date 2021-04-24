@@ -1,0 +1,6 @@
+gymbuddy_flow.txt
+gymbuddy-frontend-old/
+gymbuddy-backend/
+gymbuddy-backend-graphql/.env
+gymbuddy-backend-graphql/node_modules/
+gymbuddy-frontend/node_modules/
